@@ -1,4 +1,4 @@
-# Pokémon Explorer (merged)
+# Pokémon Explorer 
 
 React + Vite frontend (`src/`) with an Express backend (`server.js`) over PokéAPI.
 
